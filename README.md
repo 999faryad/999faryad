@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at <a href='https://www.hetzner.com/'>Hetzner Online</a> 
 
-- 🌱 I’m currently improving my **GoLang** Skills
+- 🌱 I’m currently improving my **C** Skills
 
 - 👨‍💻 Some of my small projects are available but I will public more when they are done :)
 
