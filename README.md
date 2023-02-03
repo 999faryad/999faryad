@@ -38,4 +38,4 @@
 <br/>
 <br/>
 
-<a href="https://github.com/enp0s10-GH/github-readme-activity-graph"><img alt="Maddox Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=enp0s10-GH&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/lud1cr0us/github-readme-activity-graph"><img alt="Maddox Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lud1cr0us&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
