@@ -32,8 +32,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/enp0s10-GH/github-readme-stats"><img alt="enp0s10 Github Stats" src="https://github-readme-stats.vercel.app/api?username=enp0s10-GH&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Maddox3306/github-readme-stats"><img alt="Maddox Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enp0s10-GH&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+    <a href="https://github.com/lud1cr0us/github-readme-stats"><img alt="lud1cr0us Github Stats" src="https://github-readme-stats.vercel.app/api?username=lud1cr0us&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/lud1cr0us/github-readme-stats"><img alt="lud1cr0us Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lud1cr0us&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 
 <br/>
 <br/>
