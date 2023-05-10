@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at <a href='https://www.hetzner.com/'>Hetzner Online</a> 
+- 🔭 I’m currently working at <a href='https://www.hetzner.com/'>Hetzner Online</a>  as DevOps Engineer
 
 - 🌱 I’m currently improving my **C** Skills
 
