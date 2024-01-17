@@ -1,5 +1,5 @@
 <div><img width="100%" height="auto" src="https://tiptopbrain.com/wp-content/uploads/2020/05/coding-on-pc-icon.png" height="175px"/></div>
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am mountainer!</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am 999faryad!</h1>
 <h3 align="center">I'm a Developer from Germany.</h3>
 
 
@@ -13,9 +13,11 @@
 
 - 📫 How to reach me **enp0s10@enforcer.dev**
 
-## 🚀 Projects, Languages and Tools:
+## 🚀 Projects, Languages, Operating Systems and Tools:
 
 <p align="left">  
+    <a href="https://www.juniper.net/de/de.html"> <img width="50px" src="https://careers.juniper.net/twitter.jpg">
+    <a href="https://www.debian.org/index.de.html" target="_blank"> <img width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_original_logo_icon_146566.png">
     <a href="https://ubuntu.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> 
     <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -32,8 +34,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/mountainer1/github-readme-stats"><img alt="mountainer´s Github Stats" src="https://github-readme-stats.vercel.app/api?username=mountainer1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mountainer1/github-readme-stats"><img alt="mountainer1 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mountainer1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+    <a href="https://github.com/999faryad/github-readme-stats"><img alt="999faryad´s Github Stats" src="https://github-readme-stats.vercel.app/api?username=999faryad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/999faryad/github-readme-stats"><img alt="999faryad´s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=999faryad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 
 <br/>
 <br/>
