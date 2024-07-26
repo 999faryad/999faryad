@@ -16,7 +16,6 @@
 ## 🚀 Projects, Languages, Operating Systems and Tools:
 
 <p align="left">  
-    <a href="https://www.juniper.net/de/de.html"> <img width="50px" src="https://careers.juniper.net/twitter.jpg">
     <a href="https://www.debian.org/index.de.html" target="_blank"> <img width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_original_logo_icon_146566.png">
     <a href="https://ubuntu.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> 
     <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
