@@ -1,17 +1,18 @@
-<div><img width="100%" height="auto" src="https://tiptopbrain.com/wp-content/uploads/2020/05/coding-on-pc-icon.png" height="175px"/></div>
+<p align="center" >
+  <img width="50%" src="https://i.ibb.co/2FdV3rn/IMG-8158.jpg" />
+</p>
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am 999faryad!</h1>
 <h3 align="center">I'm a Developer from Germany.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at <a href='https://www.hetzner.com/'>Hetzner Online</a>  as DevOps Engineer
+- 🔭 I’m currently working at <a href='https://www.hetzner.com/'>Hetzner Online</a> as DevOps Engineer
 
 - 🌱 I’m currently improving my **C** Skills
 
 - 👨‍💻 Some of my small projects are available but I will public more when they are done :)
-
-- 📫 How to reach me **enp0s10@enforcer.dev**
 
 ## 🚀 Projects, Languages, Operating Systems and Tools:
 
@@ -38,10 +39,3 @@
 
 <br/>
 <br/>
-<pre>
-                 _        
- _ __ ___  _ __ | |_ _ __ 
-| '_ ` _ \| '_ \| __| '__|
-| | | | | | | | | |_| |   
-|_| |_| |_|_| |_|\__|_| 
-</pre>
