@@ -13,9 +13,12 @@
 <p align="left">  
     <a href="https://www.debian.org/index.de.html" target="_blank"> <img width="50px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/debian_original_logo_icon_146566.png">
     <a href="https://ubuntu.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> 
+    <a href="https://almalinux.org/" target="_blank"> <img width="50px" src="https://atix.de/wp-content/uploads/AlmaLinux-300x300.png"\></a>
+    <a href="https://rockylinux.org/" target="_blank"> <img width="50px" src="https://d4.alternativeto.net/0-6OsAZ97XPkLFL46qEExY62SQp7vF2sd7QsvW4z7uw/rs:fit:280:280:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy9yb2NreS1saW51eF8xNzkwNzcucG5n.png"\></a>
+    <a href="https://centos.org/" target="_blank"> <img width="50px" src="https://static-00.iconduck.com/assets.00/centos-icon-256x256-s8fhqv9q.png"\></a>
+    <a href="https://www.opensuse.org/" target="_blank"> <img width="50px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoopensuse_104071.png"\></a>
     <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://php.net/" target="_blank"><img src="https://img.icons8.com/color/48/000000/php.png"/>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
