@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working at <a href='https://www.hetzner.com/'>Hetzner Online</a> as DevOps Engineer
 
-- 🌱 I’m currently improving my **C** Skills
-
 - 👨‍💻 Some of my small projects are available but I will public more when they are done :)
 
 ## 🚀 Projects, Languages, Operating Systems and Tools:
