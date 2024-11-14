@@ -1,7 +1,3 @@
-<p align="center" >
-  <img width="50%" src="https://i.ibb.co/2FdV3rn/IMG-8158.jpg" />
-</p>
-
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am 999faryad!</h1>
 <h3 align="center">I'm a Developer from Germany.</h3>
 
